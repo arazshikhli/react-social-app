@@ -21,6 +21,7 @@ function Profile(){
                 <div className='posts'>
                     <h1>My Posts</h1>
                     <input className='input'/>
+                    <button className='btn'>send</button>
                     <div>
                         new Post 1
                     </div>
